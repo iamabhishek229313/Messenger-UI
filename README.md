@@ -1,6 +1,8 @@
 # messenger_ui
 
-A new Flutter project.
+Making Messenger-UI design using Flutter .
+
+[This is the code Result](Screenshot_20200105-115224.jpg) . 
 
 ## Getting Started
 
